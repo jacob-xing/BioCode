@@ -1,3 +1,5 @@
+# I used AI to help me write the answer into a .txt file
+
 def simulate_fibonacci_to_file(a_start, b_start, steps, filename, mode='a'):
    
     with open(filename, mode) as f:

@@ -1,3 +1,5 @@
+# I used AI to help me write the answer into a .txt file
+
 def simulate_biquad_to_file(inputs, filename="biquad_results.txt"):
     x_n1, x_n2 = 0, 0
     y_n1, y_n2 = 0, 0
